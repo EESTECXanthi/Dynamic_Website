@@ -20,7 +20,7 @@
     width: 100px;
   }
   .slider {
-    background: aqua;
+    background: red;
     width: 500px;
     min-width: 500px;
 
