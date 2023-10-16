@@ -9,7 +9,7 @@
 
 <Router {url}>
   <nav>
-    <a href="/"><img alt="EESTEC LOGO" /></a>
+    <a href="/"><img alt="EESTEC J LOGO" /></a>
     <a href="/"><img alt="" /></a>
     <a href="/about">About Us</a>
     <a href="/events">Events</a>
