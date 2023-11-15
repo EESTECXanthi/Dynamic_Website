@@ -1,12 +1,12 @@
-# JobFair website 💻
+# [2021-2023] EESTEC LC Xanthi website 💻
 ## Description 📚
- This is the official repository for the current [LC Xanthi website](https://www.eestecxanthis.gr) 
+This is the official repository for the current [LC Xanthi website](https://www.eestecxanthis.gr) 
 ## Installation 💡 
 Download/clone the source code
 ```
 git clone https://github.com/EESTECXanthi/website
 ```
-Install dependancies 
+Install dependencies
 ```
 npm i
 ```
