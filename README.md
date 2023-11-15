@@ -1,6 +1,6 @@
 # JobFair website 💻
 ## Description 📚
- This is the official repository for the [LC Xanthi website](https://www.eestecxanthis.gr) 
+ This is the official repository for the current [LC Xanthi website](https://www.eestecxanthis.gr) 
 ## Installation 💡 
 Download/clone the source code
 ```
