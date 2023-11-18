@@ -1,6 +1,6 @@
-# [2021-2023] EESTEC LC Xanthi website 💻
+# [Under-Development] EESTEC LC Xanthi website 💻
 ## Description 📚
-This is the official repository for the current [LC Xanthi website](https://www.eestecxanthis.gr) 
+This is the repository for the new LC Xanthi website.
 ## Installation 💡 
 Download/clone the source code
 ```
