@@ -17,4 +17,4 @@
   - [ ] All user interactions are logical.
 - [ ] Made sure that all the new elements I added and all the changes I made to existing ones are properly documented:
   - [ ] As comments in the code (if applicable).
-- [ ] Tagged a reviewer.
+- [ ] Tagged a reviewer and notified them either privately or via Discord.
