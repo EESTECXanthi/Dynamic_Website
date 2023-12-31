@@ -24,23 +24,6 @@ The subtasks or steps that need to be completed to fulfil this issue are the fol
 - [ ] Subtask 2
 - [ ] Subtask 3
 
-## Dependencies
-
-### Languages
-
-- HTML v5
-- CSS v3
-- JavaScript vECMA-423
-
-### Frameworks
-
-- Bootstrap v5.3
-- React.js v18.2.0
-
-### Libraries
-
-- Feel free to search for any libraries that you can use.
-
 ## Needed Resources
 
 - [Media files.]()

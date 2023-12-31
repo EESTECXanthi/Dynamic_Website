@@ -22,13 +22,13 @@ Steps to reproduce the behaviour:
 
 ## Environments
 
-For Desktop, use the following:
+For Desktop, describe your system:
 
 - Operating System: [e.g., Windows 10, macOS, Linux]
 - Browser: [e.g., Chrome, Firefox, Safari]
 - Version: [e.g., 1.0.0]
 
-For mobile, use the following:
+For mobile, describe your system:
 
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
